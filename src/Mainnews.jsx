@@ -1,6 +1,9 @@
+import { HiCube } from "react-icons/hi";
+
 function MainNews() {
   return (
     <div className="main">
+      <HiCube />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
